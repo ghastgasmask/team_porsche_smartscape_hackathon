@@ -9,7 +9,7 @@ Real time urban environmental health analysis powered by AI
 Track 2 Ecology & Urban Environment
 SmartScape Hackathon 2026
 By Porsche Team
-
+THERE ARE NOT MANY COMMITS, BECAUSE THE DEVELOPMENT FOLDER WAS COPIED, TRANSFERRED, AND MOVED FREQUENTLY
 ———————————————————————————————————————————————————————————————————————————————————————
 
 ## Problem 
@@ -45,7 +45,6 @@ UrbanEco Monitor is a modular Streamlit dashboard with four modules (ALL WITH AI
 | Language        | Python 3.12                              |
 
 ———————————————————————————————————————————————————————————————————————————————————————
-
 ## How to Run
 ## LOCALLY 
 
@@ -67,7 +66,17 @@ streamlit run app.py
 ```
 
 The app will open at `http://localhost:8501`
+———————————————————————————————————————————————————————————————————————————————————————
+## How to Run
+## ONLINE 
 
+!!! IT IS NOT HIGHLY RECCOMENDED TO USE THIS APP ONLINE, TRY TO USE IT LOCALLY !!!
+But here's the link, with which you can open the app:
+https://teamporschesmartscapehackathon.streamlit.app/
+
+Streamlit heavily struggles with tensorflow, and is quite weak & slow when a lot of libraries are involved.
+It is highly reccomended for you to clone/download the repo and run it locally on your PC.
+Sometimes errors pop out just because they want and can pop up.
 ———————————————————————————————————————————————————————————————————————————————————————
 
 ## Dataset Info
