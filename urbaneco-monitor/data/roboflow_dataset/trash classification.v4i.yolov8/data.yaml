@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['car', 'garbage bin', 'pavement', 'road', 'sky', 'trash']
+
+roboflow:
+  workspace: otherside
+  project: trash-classification-qy72f
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/otherside/trash-classification-qy72f/dataset/4
